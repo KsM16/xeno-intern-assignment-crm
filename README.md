@@ -1,4 +1,4 @@
-# Xeno CRM Assignment (ClientPulse)
+# Xeno CRM Assignment  
 
 **Project Live demo - https://xeno-crm-assignment-3ot4.onrender.com**
 
