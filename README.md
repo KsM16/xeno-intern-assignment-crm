@@ -1,6 +1,6 @@
 # Xeno CRM Assignment (ClientPulse)
 
-**Project Live demo - https://xeno-crm-assignment-3ot4.onrender.com
+**Project Live demo - https://xeno-crm-assignment-3ot4.onrender.com**
 
 It is a web application designed to help businesses manage customer relationships and marketing campaigns. It features customer data ingestion, audience segmentation, campaign creation, and AI-powered campaign optimization.
 
